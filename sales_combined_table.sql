@@ -1,0 +1,8 @@
+USE AdventureWorksProject;
+GO
+SELECT * INTO Sales
+FROM Sales_2015
+UNION ALL
+SELECT * FROM Sales_2016
+UNION ALL
+SELECT * FROM Sales_2017;
