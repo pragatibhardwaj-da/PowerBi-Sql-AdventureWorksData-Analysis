@@ -4,7 +4,7 @@
 
 This project is an end-to-end Business Intelligence solution built using SQL Server and Power BI. The objective was to analyze AdventureWorks sales data and generate actionable business insights related to product performance, customer behavior, geographic sales, and product returns.
 
-The project demonstrates the complete analytics workflow from SQL data preparation and data modeling to DAX calculations and interactive dashboard development.
+
 
 ---
 
@@ -13,16 +13,15 @@ The project demonstrates the complete analytics workflow from SQL data preparati
 - Analyze overall business performance using KPIs.
 - Identify top-performing products and customer segments.
 - Understand geographic sales distribution.
-- Monitor product return patterns.
+- Identify product return patterns.
 - Build an interactive dashboard for business users.
 
 ---
 
 # Tools & Technologies
 
-- SQL Server
-- SQL Views
-- Power BI Desktop
+- SQL 
+- Power BI 
 - DAX
 - Data Modeling
 
@@ -37,13 +36,11 @@ The project demonstrates the complete analytics workflow from SQL data preparati
 - Corrected decimal formatting issues.
 - Validated data using SQL queries.
 - Combined yearly sales tables into a single Sales table.
-- Created reusable SQL views for reporting.
 
 ### 2. SQL Views Created
 
 - **vw_SalesAnalysis**
   - Combined Sales, Products, Customers, Calendar and Territories.
-  - Calculated Revenue, Cost and Profit.
 
 - **vw_ProductDetails**
   - Combined Products, Categories and Subcategories.
