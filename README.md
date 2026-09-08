@@ -113,9 +113,7 @@ AdventureWorks-SQL-PowerBI-Dashboard
 ├── Dataset
 │
 └── README.md
-```
 
----
 
 # Skills Demonstrated
 
@@ -146,13 +144,12 @@ AdventureWorks-SQL-PowerBI-Dashboard
 - Returns Analysis
 - KPI Reporting
 
----
 
 # About This Project
 
 This project was developed as part of my Data Analytics portfolio to demonstrate practical skills in SQL Server, Power BI, data modeling, DAX, and business intelligence reporting. The focus was not only on building dashboards but also on translating raw data into meaningful business insights that support data-driven decision-making.
 
----
+
 
 # Author
 
