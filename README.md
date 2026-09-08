@@ -57,7 +57,6 @@ Professional customers were the strongest revenue-generating occupation segment.
 The overall return rate was approximately 2.17%; Accessories accounted for the largest share of returns, with Tires & Tubes showing the highest subcategory return count.
 
 
-
 ## Dashboard Features
 
 - Interactive KPI Cards
@@ -68,7 +67,6 @@ The overall return rate was approximately 2.17%; Accessories accounted for the l
 - Top N Analysis
 - Monthly Trend Analysis
 - Responsive Dashboard Layout
-- 
 
 # Power BI Skills Demonstrated
 
